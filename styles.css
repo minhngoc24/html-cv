@@ -1,0 +1,95 @@
+html{
+background: rgb(252, 215, 221);}
+h1 {
+    color: rgb(246, 234, 227);
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    background: rgb(212, 19, 115) 
+}
+h2{color:rgb(159, 39, 39)} 
+
+h4{
+    color: rgb(162, 37, 37);
+    text-align: left;
+}
+
+.mylink{
+    text-align: center;
+}
+a{color:rgb(127, 49, 98)}
+.button {
+    background-color: rgb(212, 19, 115) ; /* Green background */
+    border: none; /* Remove border */
+    color: white; /* White text */
+    padding: 12px 15px; /* Some padding */
+    text-align: center; /* Centered text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Make the button inline-block */
+    font-size: 16px; /* Increase font size */
+    margin: 4px 2px; /* Add some margin */
+    cursor: pointer; /* Pointer/hand icon on hover */
+    border-radius: 12px; /* Rounded corners */
+}
+
+/* Add a darker background color on button hover */
+.button:hover {
+    background-color: #a34ab9;
+}
+
+/* Add a darker background color on button active (when clicked) */
+.button:active {
+    background-color: #8e3e79;
+    box-shadow: 10 px #666;
+    transform: translateY(4px);
+}
+.viewcv{
+    background-color: rgb(212, 19, 115) ; /* Green background */
+    border: none; /* Remove border */
+    color: white; /* White text */
+    padding: 12px 15px; /* Some padding */
+    text-decoration: none; /* Remove underline */
+    text-align: center; /* Centered text */
+    display: inline-block; /* Make the button inline-block */
+    font-size: 16px; /* Increase font size */
+    margin: 4px 2px; /* Add some margin */
+    cursor: pointer; /* Pointer/hand icon on hover */
+    border-radius: 12px; /* Rounded corners */
+
+}
+.viewcv:hover {
+    background-color: #a34ab9;
+}
+
+/* Add a darker background color on button active (when clicked) */
+.viewcv:active {
+    background-color: #8e3e79;
+    box-shadow: 10 px #666;
+    transform: translateY(4px);
+}
+
+.back {
+    background-color: rgb(212, 19, 115) ; /* Green background */
+    border: none; /* Remove border */
+    color: white; /* White text */
+    padding: 12px 15px; /* Some padding */
+    text-align: center; /* Centered text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Make the button inline-block */
+    font-size: 16px; /* Increase font size */
+    margin: 4px 2px; /* Add some margin */
+    cursor: pointer; /* Pointer/hand icon on hover */
+    border-radius: 12px; /* Rounded corners */
+}
+
+/* Add a darker background color on button hover */
+.back:hover {
+    background-color: #a34ab9;
+}
+
+/* Add a darker background color on button active (when clicked) */
+.back:active {
+    background-color: #8e3e79;
+    box-shadow: 10 px #666;
+    transform: translateY(4px);
+}
